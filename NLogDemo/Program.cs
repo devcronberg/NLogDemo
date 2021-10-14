@@ -30,6 +30,9 @@ namespace LogDemo
 
             Metode1();
 
+            // Ekstra
+            Metode1();
+
         }
 
         static void Metode1() {
