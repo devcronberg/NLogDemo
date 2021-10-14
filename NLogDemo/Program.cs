@@ -27,7 +27,6 @@ namespace LogDemo
             }
 
             logger.Fatal("Fatal...");
-
             Metode1();
 
             // Ekstra
