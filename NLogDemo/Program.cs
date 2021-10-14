@@ -32,7 +32,6 @@ namespace LogDemo
 
             // Ekstra
             Metode1();
-
         }
 
         static void Metode1() {
