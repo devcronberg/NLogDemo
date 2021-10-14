@@ -35,7 +35,7 @@ namespace LogDemo
 
         static void Metode1() {
             logger.Debug("I metode1 ...");
-            // lsjhflkjhf 
+            // lsjhflkjhf dfkgdslfkgjfdk
             logger.Debug("Ud af metode1");
         }
         
